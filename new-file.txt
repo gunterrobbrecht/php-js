@@ -1,1 +1,4 @@
 Second file in Git repository
+
+Dit is een wijziging
+Dit ook
