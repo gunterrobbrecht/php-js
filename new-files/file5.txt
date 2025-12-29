@@ -1,5 +1,5 @@
-It is a new file in the new-files folder
+Nieuwe versie voor BR-3
 
 File5.txt was changed. This line was modified again in main branch.
 
-aanpassing in branch main
+aanpassing in branch main --> nu voor BR-3
